@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "chromium": "^3.0.3",
+    "playwright": "^1.36.2"
+  }
+}
